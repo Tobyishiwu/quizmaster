@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules/
+gateway/node_modules/
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/db.sqlite3
+backend/.env
+
+# Build
+frontend/build/
+
+# Cache
+frontend/.cache/
